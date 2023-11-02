@@ -4,3 +4,5 @@ test
 Текст локально
 
 Text new branch
+
+Conflict
