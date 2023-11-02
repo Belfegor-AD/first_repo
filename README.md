@@ -6,3 +6,4 @@ test
 Text new branch
 
 Conflict
+Local conflict
